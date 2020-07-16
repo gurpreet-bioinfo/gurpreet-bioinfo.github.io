@@ -19,7 +19,7 @@
 
 ### Education
 ----------
-* 2016: **Ph.D. (Bioinformatics)** || Thesis: [Structure-Function Analysis of Plant NADPH Oxidases](https://www.researchgate.net/project/PhD-Thesis-Structure-Function-Analysis-of-Plant-NADPH-oxidases)
+* 2016: **Ph.D. (Bioinformatics)** | Thesis: [Structure-Function Analysis of Plant NADPH Oxidases](https://www.researchgate.net/project/PhD-Thesis-Structure-Function-Analysis-of-Plant-NADPH-oxidases)
    * Department of Biotechnology, Guru Nanak Dev University, Amritsar, India (**DST-INSPIRE Fellow**).
    * Department of Biochemistry and Biophysics, University of North Carolina, Chapel Hill, USA (**Fulbright-Nehru Doctoral & Professional Research Fellow**).
 * 2009: **M.Sc. (Bioinformatics)**, Department of Biotechnology, Guru Nanak Dev University, Amritsar, India.
