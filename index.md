@@ -1,4 +1,4 @@
-## Professional Experience
+### Professional Experience
 ----------
 
 * 2018-Cont.: Bioinformatics Research Scientist, Quantitative Biology Center (QBiC), University of Tuebingen, Tuebingen, Germany.
@@ -6,7 +6,7 @@
 * 2016-2018: Postdoctoral Fellow (Bioinformatics), Max Planck Institute for Developmental Biology, Tuebingen, Germany.
 
 
-## Education
+### Education
 ----------
 
 * 2016: Ph.D. (Bioinformatics) || Thesis: Structure-Function Analysis of Plant NADPH Oxidases.
@@ -22,7 +22,7 @@
 * 2007: B.Sc. (Biotechnology), Khalsa College, Amritsar, India.
 
 
-## Research Areas/Interests
+### Research Areas/Interests
 ----------
 
 * Currently analysing high-throughput data (next generation sequencing, microarray, proteomics).
@@ -32,7 +32,7 @@
   * Tools/database/pipeline development.
 
 
-## Awards/Fellowships
+### Awards/Fellowships
 ----------
 * 2018: [Bioclues Innovation, Research and Development (BIRD) Award](http://bioclues.org/bird-awards/).
 
@@ -43,12 +43,12 @@
 * 2012: DBT-BioInformatics National Certification (BINC).
 
 
-## Projects
+### Projects
 ----------
 * List of projects is available at my [ResearchGate](https://www.researchgate.net/profile/Gurpreet_Kaur2/projects) profile.
 
 
-## Publications
+### Publications
 ----------
 * List of publications is available at my [GoogleScholar](https://scholar.google.com/citations?hl=en&user=cFgjdH0AAAAJ&view_op=list_works&sortby=pubdate) profile.
 
