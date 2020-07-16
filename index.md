@@ -9,10 +9,10 @@
 ### Professional Experience
 ----------
 * 2018-Cont.: Bioinformatics Research Scientist, Quantitative Biology Center (QBiC), University of Tuebingen, Tuebingen, Germany.
-	* Research and project management: Multiple high-throughput data analysis projects from different organisms including downstream and pathway analysis.
+	* Bioinformatics and Project Management: Multiple high-throughput data analysis projects from different organisms including downstream and pathway analysis.
 	* Tools: R packages, Nextflow pipelines.
 * 2016-2018: Postdoctoral Fellow (Bioinformatics), Max Planck Institute for Developmental Biology, Tuebingen, Germany.
-	* Research and project management: Development and Evolution of Colour Patterns in Zebrafish and Danio species. 
+	* Bioinformatics and Project Management: Development and Evolution of Colour Patterns in Zebrafish and Danio species. 
 				My research focus was next-generation sequencing (NGS) data analysis. I have done analysis of RNA-Seq data from different tissues of zebrafish and its mutants, and identified potential candidate genes which may be responsible for the pigmentation/colour pattern. Further, I have also analysed exomes of various Danio species and compared pigmentation related genes with that of zebrafish.
 	* Tools: R packages, samtools, bcftools, zebrafish specific resources (ZFIN, Ensembl etc.).
 * 2009: Teaching (Bioinformatics), Department of Biotechnology, Guru Nanak Dev University, Amritsar, India.
