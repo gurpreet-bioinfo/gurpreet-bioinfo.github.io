@@ -27,7 +27,7 @@
 
 ### Awards/Fellowships
 ----------
-* 2018: Bioclues Innovation, Research and Development [(BIRD)] (http://bioclues.org/bird-awards/) Award.
+* 2018: Bioclues Innovation, Research and Development [(BIRD)](http://bioclues.org/bird-awards/) Award.
 * 2015: Incentive Award for the [best paper](https://www.ncbi.nlm.nih.gov/pubmed/24561450) by Biotechnology Information System Network (BTISNET), Department of Biotechnology (DBT), Govt. of India.
 * 2012-2013: Fulbright-Nehru Doctoral and Professional Research Fellowship, USA.
 * 2012: DBT-BioInformatics National Certification (BINC).
