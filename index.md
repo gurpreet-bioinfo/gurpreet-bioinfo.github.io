@@ -9,22 +9,26 @@
 ### Professional Experience
 ----------
 * 2018-Cont.: Bioinformatics Research Scientist, Quantitative Biology Center (QBiC), University of Tuebingen, Tuebingen, Germany.
+	* Research and project management: Multiple high-throughput data analysis projects from different organisms including downstream and pathway analysis.
+	* Tools: R packages, Nextflow pipelines.
 * 2016-2018: Postdoctoral Fellow (Bioinformatics), Max Planck Institute for Developmental Biology, Tuebingen, Germany.
+	* Research and project management: Development and Evolution of Colour Patterns in Zebrafish and Danio species. 
+				My research focus was next-generation sequencing (NGS) data analysis. I have done analysis of RNA-Seq data from different tissues of zebrafish and its mutants, and identified potential candidate genes which may be responsible for the pigmentation/colour pattern. Further, I have also analysed exomes of various Danio species and compared pigmentation related genes with that of zebrafish.
+	* Tools: R packages, samtools, bcftools, zebrafish specific resources (ZFIN, Ensembl etc.).
+* 2009: Teaching (Bioinformatics), Department of Biotechnology, Guru Nanak Dev University, Amritsar, India.
 
 ### Education
 ----------
-* 2016: Ph.D. (Bioinformatics) || Thesis: Structure-Function Analysis of Plant NADPH Oxidases.
+* 2016: Ph.D. (Bioinformatics) || Thesis: [Structure-Function Analysis of Plant NADPH Oxidases](https://www.researchgate.net/project/PhD-Thesis-Structure-Function-Analysis-of-Plant-NADPH-oxidases)
    * Department of Biotechnology, Guru Nanak Dev University, Amritsar, India (DST-INSPIRE Fellow).
    * Department of Biochemistry and Biophysics, University of North Carolina, Chapel Hill, USA (Fulbright-Nehru Doctoral & Professional Research Fellow).
    * Bioinformatics Wing, CCMB, Hyderabad, India (Visiting Ph.D. student).
-
 * 2009: M.Sc. (Bioinformatics), Department of Biotechnology, Guru Nanak Dev University, Amritsar, India.
-
 * 2007: B.Sc. (Biotechnology), Khalsa College, Amritsar, India.
 
 ### Awards/Fellowships
 ----------
-* 2018: [Bioclues Innovation, Research and Development (BIRD) Award](http://bioclues.org/bird-awards/).
+* 2018: Bioclues Innovation, Research and Development [(BIRD)] (http://bioclues.org/bird-awards/) Award.
 * 2015: Incentive Award for the [best paper](https://www.ncbi.nlm.nih.gov/pubmed/24561450) by Biotechnology Information System Network (BTISNET), Department of Biotechnology (DBT), Govt. of India.
 * 2012-2013: Fulbright-Nehru Doctoral and Professional Research Fellowship, USA.
 * 2012: DBT-BioInformatics National Certification (BINC).
