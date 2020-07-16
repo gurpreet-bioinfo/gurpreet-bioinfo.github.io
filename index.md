@@ -1,27 +1,25 @@
 ## Professional Experience
 ----------
 
-**2018-Cont.: Bioinformatics Research Scientist**, Quantitative Biology Center (QBiC), University of Tuebingen, Tuebingen, Germany.
+* 2018-Cont.: Bioinformatics Research Scientist, Quantitative Biology Center (QBiC), University of Tuebingen, Tuebingen, Germany.
 
-**2016-2018: Postdoctoral Fellow (Bioinformatics)**, Max Planck Institute for Developmental Biology, Tuebingen, Germany.
+* 2016-2018: Postdoctoral Fellow (Bioinformatics), Max Planck Institute for Developmental Biology, Tuebingen, Germany.
 
 
 ## Education
 ----------
 
-**2016: Ph.D. (Bioinformatics)** 
+* 2016: Ph.D. (Bioinformatics) || Thesis: Structure-Function Analysis of Plant NADPH Oxidases.
 
-Thesis: Structure-Function Analysis of Plant NADPH Oxidases.
+   * Department of Biotechnology, Guru Nanak Dev University, Amritsar, India (DST-INSPIRE Fellow).
 
-* Department of Biotechnology, Guru Nanak Dev University, Amritsar, India (DST-INSPIRE Fellow).
+   * Department of Biochemistry and Biophysics, University of North Carolina, Chapel Hill, USA (Fulbright-Nehru Doctoral & Professional Research Fellow).
 
-* Department of Biochemistry and Biophysics, University of North Carolina, Chapel Hill, USA (Fulbright-Nehru Doctoral & Professional Research Fellow).
+   * Bioinformatics Wing, CCMB, Hyderabad, India (Visiting Ph.D. student).
 
-* Bioinformatics Wing, CCMB, Hyderabad, India (Visiting Ph.D. student).
+* 2009: M.Sc. (Bioinformatics), Department of Biotechnology, Guru Nanak Dev University, Amritsar, India.
 
-**2009: M.Sc. (Bioinformatics)** Department of Biotechnology, Guru Nanak Dev University, Amritsar, India.
-
-**2007: B.Sc. (Biotechnology)** Khalsa College, Amritsar, India.
+* 2007: B.Sc. (Biotechnology), Khalsa College, Amritsar, India.
 
 
 ## Research Areas/Interests
@@ -32,6 +30,7 @@ Thesis: Structure-Function Analysis of Plant NADPH Oxidases.
 * Long-term goals:
   * Integrating omics data analysis with network biology.
   * Tools/database/pipeline development.
+
 
 ## Awards/Fellowships
 ----------
