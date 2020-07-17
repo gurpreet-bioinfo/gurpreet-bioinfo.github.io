@@ -8,7 +8,7 @@
   
 ### Professional Experience
 ----------
-* 2018-Cont.: **Bioinformatics Research Scientist**, [Quantitative Biology Center (QBiC), University of Tuebingen, Tuebingen, Germany.](https://uni-tuebingen.de/)
+* 2018-Cont.: **Bioinformatics Research Scientist**, [QBiC, University of Tuebingen, Tuebingen, Germany.](https://uni-tuebingen.de/)
 	* Bioinformatics and Project Management: Multiple high-throughput data analysis projects from different organisms including consultation, design of experiments, downstream and pathway analysis.
 	* Tools: R packages, Nextflow pipelines.
 * 2016-2018: **Postdoctoral Fellow (Bioinformatics)**, [Max Planck Institute for Developmental Biology, Tuebingen, Germany.](https://www.eb.tuebingen.mpg.de/)
