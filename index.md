@@ -2,9 +2,8 @@
 ----------
 * High-throughput data (next generation sequencing, microarray, proteomics) analysis.
 * Phylogenetic analysis.
-* Long-term goals:
-  * Integrating omics data analysis with network biology.
-  * Tools/database/pipeline development.
+* Integrating omics data analysis with network biology.
+* Tools/database/pipeline development.
   
 ### Professional Experience
 ----------
