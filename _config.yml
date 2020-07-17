@@ -1,17 +1,20 @@
 title: Dr. Gurpreet Kaur # your name (or website title) here
 
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <img src="/images/photo.png" alt="UofAlogo" border="0px" style="width:143px;height:106px;">
+  <img src="/images/photo.png" alt="UofAlogo" border="0px" style="width:163px;height:126px;">
   <br><br>
-  <a href="mailto:gurpreet.bioinfo@gmail.com">gurpreet.bioinfo@gmail.com</a> 
-  <br><br>
-  <a href="https://www.linkedin.com/in/gurpreet-bioin4/">Connect at LinkedIn</a> 
-  <br><br>
-  <a href="https://www.researchgate.net/profile/Gurpreet_Kaur2">Follow at ResearchGate</a> 
-  <br><br>  
-  <a href="https://scholar.google.com/citations?hl=en&user=cFgjdH0AAAAJ&view_op=list_works&sortby=pubdate">Follow at GoogleScholar</a> 
-  <br><br>
-  <a href="https://twitter.com/gurpreet_bioin4">Follow at Twitter</a> 
+  
+  <!-- 
+   <a href="mailto:gurpreet.bioinfo@gmail.com">gurpreet.bioinfo@gmail.com</a> 
+   <br><br>
+   <a href="https://www.linkedin.com/in/gurpreet-bioin4/">Connect at LinkedIn</a> 
+   <br><br>
+   <a href="https://www.researchgate.net/profile/Gurpreet_Kaur2">Follow at ResearchGate</a> 
+   <br><br>  
+   <a href="https://scholar.google.com/citations?hl=en&user=cFgjdH0AAAAJ&view_op=list_works&sortby=pubdate">Follow at GoogleScholar</a> 
+   <br><br>
+   <a href="https://twitter.com/gurpreet_bioin4">Follow at Twitter</a> 
+   --> 
   
 theme: jekyll-theme-dinky
 
