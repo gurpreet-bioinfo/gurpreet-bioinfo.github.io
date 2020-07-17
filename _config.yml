@@ -1,6 +1,7 @@
 title: Dr. Gurpreet Kaur # your name (or website title) here
-logo: "/images/photo.png" # your photo (or logo) here
+
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <img src="/images/photo.png" alt="UofAlogo" border="0px" style="width:143px;height:106px;">
   <br><br>
   <a href="mailto:gurpreet.bioinfo@gmail.com">gurpreet.bioinfo@gmail.com</a> 
   <br><br>
@@ -11,6 +12,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://scholar.google.com/citations?hl=en&user=cFgjdH0AAAAJ&view_op=list_works&sortby=pubdate">Follow at GoogleScholar</a> 
   <br><br>
   <a href="https://twitter.com/gurpreet_bioin4">Follow at Twitter</a> 
+  
 theme: jekyll-theme-dinky
 
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
