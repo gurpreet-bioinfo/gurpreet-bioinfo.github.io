@@ -14,14 +14,14 @@
 	* Bioinformatics and Project Management: Development and Evolution of Colour Patterns in Zebrafish and Danio species.
 		* My research focus was next-generation sequencing (NGS) data analysis. I have done analysis of RNA-Seq data from different tissues of zebrafish and its mutants, and identified potential candidate genes which may be responsible for the pigmentation/colour pattern. Further, I have also analysed exomes of various Danio species and compared pigmentation related genes with that of zebrafish.
 	* Tools: R packages, samtools, bcftools, Zebrafish-specific resources (ZFIN, Ensembl etc.).
-* 2009: **Teaching (Bioinformatics)**, [Department of Biotechnology, Guru Nanak Dev University, Amritsar, India.](http://online.gndu.ac.in/)
+* 2009: **Teaching (Bioinformatics)**, [Guru Nanak Dev University, Amritsar, India.](http://online.gndu.ac.in/)
 
 ### Education
 ----------
 * 2016: **Ph.D. (Bioinformatics)** | Thesis: [Structure-Function Analysis of Plant NADPH Oxidases](https://www.researchgate.net/project/PhD-Thesis-Structure-Function-Analysis-of-Plant-NADPH-oxidases)
-   * Department of Biotechnology, Guru Nanak Dev University, Amritsar, India (**DST-INSPIRE Fellow**).
-   * Department of Biochemistry and Biophysics, University of North Carolina, Chapel Hill, USA (**Fulbright-Nehru Doctoral & Professional Research Fellow**).
-* 2009: **M.Sc. (Bioinformatics)**, Department of Biotechnology, Guru Nanak Dev University, Amritsar, India.
+   * Guru Nanak Dev University, Amritsar, India (**DST-INSPIRE Fellow**).
+   * University of North Carolina, Chapel Hill, USA (**Fulbright-Nehru Doctoral & Professional Research Fellow**).
+* 2009: **M.Sc. (Bioinformatics)**, Guru Nanak Dev University, Amritsar, India.
 * 2007: **B.Sc. (Biotechnology)**, Khalsa College, Amritsar, India.
 
 ### Awards/Fellowships
