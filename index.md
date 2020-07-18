@@ -1,12 +1,10 @@
 ### Research Areas/Interests
-----------
 * High-throughput data (next generation sequencing, microarray, proteomics) analysis.
 * Phylogenetic analysis.
 * Integrating omics data analysis with network biology.
 * Tools/database/pipeline development.
   
 ### Professional Experience
-----------
 * 2018-   : **Bioinformatics Research Scientist**, [QBiC, University of Tuebingen, Tuebingen, Germany.](https://uni-tuebingen.de/)
 	* Bioinformatics and Project Management: Multiple high-throughput data analysis projects from different organisms including consultation, design of experiments, downstream and pathway analysis.
 	* Tools: R packages, Nextflow pipelines.
@@ -17,7 +15,6 @@
 * 2009: **Teaching (Bioinformatics)**, [Guru Nanak Dev University, Amritsar, India.](http://online.gndu.ac.in/)
 
 ### Education
-----------
 * 2016: **Ph.D. (Bioinformatics)** , Thesis: [Structure-Function Analysis of Plant NADPH Oxidases](https://www.researchgate.net/project/PhD-Thesis-Structure-Function-Analysis-of-Plant-NADPH-oxidases)
    * Guru Nanak Dev University, Amritsar, India (**DST-INSPIRE Fellow**).
    * University of North Carolina, Chapel Hill, USA (**Fulbright-Nehru Doctoral & Professional Research Fellow**).
@@ -25,18 +22,15 @@
 * 2007: **B.Sc. (Biotechnology)**, Khalsa College, Amritsar, India.
 
 ### Awards/Fellowships
-----------
 * 2018: Bioclues Innovation, Research and Development [(BIRD)](http://bioclues.org/bird-awards/) Award.
 * 2015: Incentive Award for the [best paper](https://www.ncbi.nlm.nih.gov/pubmed/24561450) by Biotechnology Information System Network (BTISNET), Department of Biotechnology (DBT), Govt. of India.
 * 2012-2013: Fulbright-Nehru Doctoral and Professional Research Fellowship, USA.
 * 2012: DBT-BioInformatics National Certification (BINC).
 
 ### Projects
-----------
 * List of projects is available at my [ResearchGate](https://www.researchgate.net/profile/Gurpreet_Kaur2/projects) profile.
 
 ### Publications
-----------
 * List of publications is available at my [GoogleScholar](https://scholar.google.com/citations?hl=en&user=cFgjdH0AAAAJ&view_op=list_works&sortby=pubdate) profile.
 
 ---
