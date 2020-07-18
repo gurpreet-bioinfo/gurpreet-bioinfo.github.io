@@ -33,5 +33,6 @@
 * List of publications is available at my [GoogleScholar](https://scholar.google.com/citations?hl=en&user=cFgjdH0AAAAJ&view_op=list_works&sortby=pubdate) profile.
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+<p>style="font-size:11px"> Hosted on <a href="https://github.com/gurpreet-bioinfo" target="_blank">GitHub</a> using the Dinky theme</p>	
+<p>style="font-size:11px"> Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p>style="font-size:11px"> Site last updated: 1st March 2020 </p>
