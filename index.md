@@ -1,3 +1,6 @@
+## Welcome to my personal homepage
+----------
+
 ### Research Areas/Interests
 ----------
 * High-throughput data (next generation sequencing, microarray, proteomics) analysis.
