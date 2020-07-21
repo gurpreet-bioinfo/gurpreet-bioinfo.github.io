@@ -34,4 +34,4 @@
 
 ---
 <p style="font-size:11px"> Hosted on <a href="https://github.com/gurpreet-bioinfo" target="_blank">GitHub</a> using the Dinky theme. Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca.</a></p>
-<p style="font-size:11px"> Site last updated: 1st March 2020 </p>
+<p style="font-size:11px"> Site information last updated: 1st March 2020 </p>
