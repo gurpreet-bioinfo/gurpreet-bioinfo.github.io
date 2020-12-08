@@ -5,13 +5,13 @@
 * Tools/database/pipeline development.
   
 ### Professional Experience
-* 2020-Present: **Postdoctoral Fellow**, [Center for Computational Genomics and Data Science (https://sites.uab.edu/cgds/)], School of Medicine, University of Alabama, Birmingham, AL, USA.
+* 2020-Present: **Postdoctoral Fellow**, [Center for Computational Genomics and Data Science](https://sites.uab.edu/cgds/), Departments of Pediatrics and Pathology, School of Medicine, University of Alabama, Birmingham, AL, USA.
 
 * 2018-2020: **Bioinformatics Research Scientist**, QBiC, University of Tuebingen, Tuebingen, Germany.
-	* Bioinformatics and Project Management: *Multiple high-throughput data analysis projects from different organisms* including consultation, design of experiments, downstream and pathway analysis.
+	* Bioinformatics and Project Management: [Multiple high-throughput data analysis projects from different organisms](https://portal.qbic.uni-tuebingen.de/portal/) including consultation, design of experiments, downstream and pathway analysis.
 	* Tools used: R packages, Nextflow pipelines.
 * 2016-2018: **Postdoctoral Fellow (Bioinformatics)**, Max Planck Institute for Developmental Biology, Tuebingen, Germany.
-	* Bioinformatics and Project Management: *Development and Evolution of Colour Patterns in Zebrafish and Danio species*. My research focus was next-generation sequencing (NGS) data analysis. I have done analysis of RNA-Seq data from different tissues of zebrafish and its mutants, and identified potential candidate genes which may be responsible for the pigmentation/colour pattern. Further, I have also analysed exomes of various Danio species and compared pigmentation related genes with that of zebrafish.
+	* Bioinformatics and Project Management: [Development and Evolution of Colour Patterns in Zebrafish and Danio species using NGS approaches](https://www.researchgate.net/project/Development-and-Evolution-of-Colour-Patterns-in-Zebrafish-and-Danio-species). 
 	* Tools used: R packages, samtools, bcftools, Zebrafish-specific resources (ZFIN, Ensembl etc.).
 * 2009: **Teaching (Bioinformatics)**, Department of Biotechnology, Guru Nanak Dev University, Amritsar, India.
 
