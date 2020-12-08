@@ -5,15 +5,15 @@
 * Tools/database/pipeline development.
   
 ### Professional Experience
-* 2020-Present: **Postdoctoral Fellow**, [Center for Computational Genomics and Data Science, University of Alabama, Birmingham, AL, USA.](https://sites.uab.edu/cgds/)
+* 2020-Present: **Postdoctoral Fellow**, [Center for Computational Genomics and Data Science (https://sites.uab.edu/cgds/), School of Medicine, University of Alabama, Birmingham, AL, USA.]
 
-* 2018-2020: **Bioinformatics Research Scientist**, [QBiC, University of Tuebingen, Tuebingen, Germany.](https://uni-tuebingen.de/)
+* 2018-2020: **Bioinformatics Research Scientist**, [QBiC, University of Tuebingen, Tuebingen, Germany.]
 	* Bioinformatics and Project Management: *Multiple high-throughput data analysis projects from different organisms* including consultation, design of experiments, downstream and pathway analysis.
 	* Tools used: R packages, Nextflow pipelines.
-* 2016-2018: **Postdoctoral Fellow (Bioinformatics)**, [Max Planck Institute for Developmental Biology, Tuebingen, Germany.](https://www.eb.tuebingen.mpg.de/)
+* 2016-2018: **Postdoctoral Fellow (Bioinformatics)**, [Max Planck Institute for Developmental Biology, Tuebingen, Germany.]
 	* Bioinformatics and Project Management: *Development and Evolution of Colour Patterns in Zebrafish and Danio species*. My research focus was next-generation sequencing (NGS) data analysis. I have done analysis of RNA-Seq data from different tissues of zebrafish and its mutants, and identified potential candidate genes which may be responsible for the pigmentation/colour pattern. Further, I have also analysed exomes of various Danio species and compared pigmentation related genes with that of zebrafish.
 	* Tools used: R packages, samtools, bcftools, Zebrafish-specific resources (ZFIN, Ensembl etc.).
-* 2009: **Teaching (Bioinformatics)**, [Guru Nanak Dev University, Amritsar, India.](http://online.gndu.ac.in/)
+* 2009: **Teaching (Bioinformatics)**, [Guru Nanak Dev University, Amritsar, India.]
 
 ### Education
 * 2016: **Ph.D. (Bioinformatics)** , Thesis: [Structure-Function Analysis of Plant NADPH Oxidases](https://www.researchgate.net/project/PhD-Thesis-Structure-Function-Analysis-of-Plant-NADPH-oxidases)
