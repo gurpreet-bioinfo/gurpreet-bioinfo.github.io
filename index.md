@@ -5,7 +5,9 @@
 * Tools/database/pipeline development.
   
 ### Professional Experience
-* 2018-   : **Bioinformatics Research Scientist**, [QBiC, University of Tuebingen, Tuebingen, Germany.](https://uni-tuebingen.de/)
+* 2020-Present: **Postdoctoral Fellow**, [Center for Computational Genomics and Data Science, University of Alabama, Birmingham, AL, USA.](https://sites.uab.edu/cgds/)
+
+* 2018-2020: **Bioinformatics Research Scientist**, [QBiC, University of Tuebingen, Tuebingen, Germany.](https://uni-tuebingen.de/)
 	* Bioinformatics and Project Management: *Multiple high-throughput data analysis projects from different organisms* including consultation, design of experiments, downstream and pathway analysis.
 	* Tools used: R packages, Nextflow pipelines.
 * 2016-2018: **Postdoctoral Fellow (Bioinformatics)**, [Max Planck Institute for Developmental Biology, Tuebingen, Germany.](https://www.eb.tuebingen.mpg.de/)
@@ -34,4 +36,4 @@
 
 ---
 <p style="font-size:11px"> Hosted on <a href="https://github.com/gurpreet-bioinfo" target="_blank">GitHub</a> using the Dinky theme. Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca.</a></p>
-<p style="font-size:11px"> Site information last updated: 1st March 2020 </p>
+<p style="font-size:11px"> Site information last updated: 8th Dec 2020 </p>
