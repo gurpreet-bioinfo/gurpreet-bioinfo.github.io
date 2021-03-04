@@ -5,7 +5,7 @@
 * Tools/database/pipeline development.
   
 ### Professional Experience
-* 2020-Present: **Postdoctoral Fellow**, [Center for Computational Genomics and Data Science](https://sites.uab.edu/cgds/), Departments of Pediatrics and Pathology, School of Medicine, University of Alabama, Birmingham, AL, USA.
+* 2020-Present: **Postdoctoral Fellow**, [Center for Computational Genomics and Data Science](https://sites.uab.edu/cgds/), Department of Pediatrics, School of Medicine, University of Alabama, Birmingham, AL, USA.
 
 * 2018-2020: **Bioinformatics Research Scientist**, QBiC, University of Tuebingen, Tuebingen, Germany.
 	* Bioinformatics and Project Management: [Multiple high-throughput data analysis projects from different organisms](https://portal.qbic.uni-tuebingen.de/portal/) including consultation, design of experiments, downstream and pathway analysis.
