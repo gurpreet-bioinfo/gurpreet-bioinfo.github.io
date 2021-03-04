@@ -5,20 +5,20 @@
   
 ### Professional Experience
 * 2020-Present: **Postdoctoral Fellow**, [Center for Computational Genomics and Data Science](https://sites.uab.edu/cgds/team/), Department of Pediatrics, School of Medicine, University of Alabama, Birmingham, AL, USA.
-		- Omics data analysis from individuals with genetic diseases (undiagnosed, rare).
+	- Omics data analysis from individuals with genetic diseases (undiagnosed, rare).
 
 * 2018-2020: **Bioinformatics Research Scientist**, QBiC, University of Tuebingen, Tuebingen, Germany.
-		- Bioinformatics and Project Management: [Multiple high-throughput data analysis projects from different organisms](https://portal.qbic.uni-tuebingen.de/portal/) including consultation, design of experiments, downstream and pathway analysis.
-		- Tools used: R packages, Nextflow pipelines.
+	- Bioinformatics and Project Management: [Multiple high-throughput data analysis projects from different organisms](https://portal.qbic.uni-tuebingen.de/portal/) including consultation, design of experiments, downstream and pathway analysis.
+	- Tools used: R packages, Nextflow pipelines.
 * 2016-2018: **Postdoctoral Fellow (Bioinformatics)**, Max Planck Institute for Developmental Biology, Tuebingen, Germany.
-		- Bioinformatics and Project Management: [Development and Evolution of Colour Patterns in Zebrafish and Danio species using NGS approaches](https://www.researchgate.net/project/Development-and-Evolution-of-Colour-Patterns-in-Zebrafish-and-Danio-species). 
-		- Tools used: R packages, samtools, bcftools, Zebrafish-specific resources (ZFIN, Ensembl etc.).
+	- Bioinformatics and Project Management: [Development and Evolution of Colour Patterns in Zebrafish and Danio species using NGS approaches](https://www.researchgate.net/project/Development-and-Evolution-of-Colour-Patterns-in-Zebrafish-and-Danio-species). 
+	- Tools used: R packages, samtools, bcftools, Zebrafish-specific resources (ZFIN, Ensembl etc.).
 * 2009: **Teaching (Bioinformatics)**, Department of Biotechnology, Guru Nanak Dev University, Amritsar, India.
 
 ### Education
 * 2016: **Ph.D. (Bioinformatics)** , Thesis: [Structure-Function Analysis of Plant NADPH Oxidases](https://www.researchgate.net/project/PhD-Thesis-Structure-Function-Analysis-of-Plant-NADPH-oxidases)
-  	 - Guru Nanak Dev University, Amritsar, India (*DST-INSPIRE Fellow*).
-  	 - University of North Carolina, Chapel Hill, USA (*Fulbright-Nehru Doctoral & Professional Research Fellow*).
+  	- Guru Nanak Dev University, Amritsar, India (*DST-INSPIRE Fellow*).
+  	- University of North Carolina, Chapel Hill, USA (*Fulbright-Nehru Doctoral & Professional Research Fellow*).
 * 2009: **M.Sc. (Bioinformatics)**, Guru Nanak Dev University, Amritsar, India.
 * 2007: **B.Sc. (Biotechnology)**, Khalsa College, Amritsar, India.
 
